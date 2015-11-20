@@ -1,5 +1,5 @@
 # webvr-ribbons
-WebVR ribbons demo [http://unboring.net/lab/ribbons](http://unboring.net/lab/ribbons)
+WebVR ribbons demo [http://unboring.net/lab/ribbonsVR/](http://unboring.net/lab/ribbonsVR/)
 
 
 The prototype folder structure is based on some [Mattdesl](https://twitter.com/mattdesl) code & includes [Boris Smus](https://twitter.com/borismus) webvr-boilerplate
