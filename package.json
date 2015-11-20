@@ -1,0 +1,33 @@
+{
+  "name": "webvr-template",
+  "version": "0.1.0",
+  "description": "WebVR ribbons with package & task manager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturitu/webvr-ribbons.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "three": "0.73.0"
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "budo": "^6.0.0",
+    "bundle-collapser": "^1.2.1",
+    "opn": "^3.0.3",
+    "glslify": "^2.3.1",
+    "installify": "^1.0.2",
+    "pinkie-promise": "^1.0.0",
+    "simple-html-index": "^1.1.2",
+    "uglify-js": "^2.5.0"
+  },
+  "scripts": {
+    "start": "node dev.js",
+    "build": "node build.js"
+  },
+  "authors": [
+    "Arturo Paracuellos <arturo@unboring.net>"
+  ],
+  "license": "MIT"
+}
+
